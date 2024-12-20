@@ -1,0 +1,11 @@
+Function is a user-defined or built-in code which works only when it is called.
+
+It is used to increase reusability of code and to reduce the errors in the program.
+It also makes code manageable and organized.
+e.g:- print(), range(), random(), etc.
+
+Functions are of two types:-
+1. user defined
+2. built - in functions
+
+

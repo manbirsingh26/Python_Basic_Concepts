@@ -1,0 +1,4 @@
+Return statement ends the function call when its executed.
+It returns the expression(value) back to the function.
+Code after the return statement is not executed.
+If there is no return value then function returns none.

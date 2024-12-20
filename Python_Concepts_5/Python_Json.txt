@@ -1,0 +1,29 @@
+JSON is a syntax for storing and exchanging data.
+
+JSON is text, written with JavaScript object notation.
+
+Python has a built-in package called json, which can be used to work with JSON data.
+
+You can convert Python objects of the following types, into JSON strings:
+dict
+list
+tuple
+string
+int
+float
+True
+False
+None
+
+When you convert from Python to JSON, Python objects are converted into the JSON (JavaScript) equivalent:
+
+Python	JSON
+dict	Object
+list	Array
+tuple	Array
+str	    String
+int	    Number
+float	Number
+True	true
+False	false
+None	null

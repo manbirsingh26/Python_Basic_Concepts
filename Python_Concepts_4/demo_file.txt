@@ -1,0 +1,5 @@
+This is a demo file.
+It is made by Manbir Singh.
+It has no purpose, it's just for practice.
+Python is a fun to learn language.
+I love learning it.

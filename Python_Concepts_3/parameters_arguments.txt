@@ -1,0 +1,24 @@
+Parameters and Arguments are placeholders in the function.
+
+When defining them , we call them parameters.
+When actually passing value to them , we call them arguments.
+def function_name(parameters):
+      body
+
+function_name(arguments)
+
+Types of Arguments:-
+1. Positional Arguments
+ These are those which are passed according to their positions.
+
+2. Default Arguments
+It means giving default values to the parameters.
+For these parameters passing values in arguments is optional.
+
+3. Arbitrary Arguments
+When no of values you want to pass are not known
+Values are being stored in tuple
+
+4. Keyword Arguments
+Variable Number of keyword arguments
+Stores data in a dictionary format

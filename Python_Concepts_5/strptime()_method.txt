@@ -1,0 +1,9 @@
+strptime() is another method available in DateTime which is used to format the time stamp which is in string format to date-time object.
+
+Syntax: datetime.strptime(time_data, format_data)
+
+Parameter:
+time_data is the time present in string format.
+format_data is the data present in datetime format which is converted from time_data using this function.
+
+It also works with the same format codes as strftime() method.
